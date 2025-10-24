@@ -27,6 +27,7 @@
   "raw"
   "sd-aarch64-installer"
   "sd-aarch64"
+  "sd-x86_64"
   "vagrant-virtualbox"
   "virtualbox"
   "vm-bootloader"
